@@ -1,0 +1,22 @@
+{
+  "name": "n1-setup",
+  "version": "1.0.0",
+  "description": "Node.js Package Management Activity",
+  "keywords": [
+    "nodejs",
+    "npm"
+  ],
+  "license": "ISC",
+  "author": "MARY ROSE A. PURUGGANAN",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.23"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
